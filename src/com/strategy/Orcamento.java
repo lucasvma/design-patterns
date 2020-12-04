@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class Orcamento {
+
 	private double valor;
 
 	private final List<Item> itens;
